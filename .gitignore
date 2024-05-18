@@ -2,5 +2,5 @@
 logs/
 dags/
 config/
-dags/
+dags/*
 plugins/
